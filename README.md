@@ -4,5 +4,7 @@ This is an quiz app for iOS, it presents 10 questions from a category of the use
 
 
 #Katiuscia Novaes de Sa,  id.100325555
-#Yuri Kusik,  id.101128208
-#Lazaro Mancebo,  id. 101133638
+
+
+![Screenshot](main.jpeg)
+
