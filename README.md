@@ -6,9 +6,12 @@ This is an quiz app for iOS, it presents 10 questions from a category of the use
 #Katiuscia Novaes de Sa,  id.100325555
 
 
+
 App Main Page
 
 ![Screenshot](main.jpeg)
+
+
 
 
 
@@ -18,9 +21,13 @@ Quiz Question
 
 
 
+
+
 Correct Answer
 
 ![Screenshot](correct.jpeg)
+
+
 
 
 
@@ -29,8 +36,10 @@ Wrong Answer
 ![Screenshot](wrong.jpeg)
 
 
+
+
+
 Result
-App Main Page
 
 ![Screenshot](result.jpeg)
 
